@@ -9,7 +9,7 @@ I am an MSc Data Science student at <a href="https://www.cmi.ac.in">Chennai Math
 
 I completed my bachelors in Mathematics and Physics (Honours) from the same college, Chennai Mathematical Institute. At the end of my $5^{th}$ semester, I realised that I want to dive into a subject that includes both mathematics, science and technology, and Data Science seemed to be the closest subject to fit these criteria. On looking further into this field, I found it very interesting and kept on dwelving in further the more I learned about its concepts and ingenious ideas. At the end of my $6^{th}$ semester, I had decided to take it as a subject for further studies and want to do something big and innovating related to this in future.
 
-Currently, I am in the process of expanding my knowledge in various fields of AI and working on independent projects that could help the community. Do reach out to me if you want to collaborate on an interesting project or a new idea. I will always respond to Linkedin messages.
+Currently, I am in the process of expanding my knowledge in various fields of AI and working on independent projects that could help the community. Do reach out to me if you want to collaborate on an interesting project or a new idea. I always respond to Linkedin messages.
 
 <br />
 
