@@ -61,6 +61,10 @@ Currently, I am in the process of expanding my knowledge in various fields of AI
 - 🎬 Anime
 - 📐 Solving Mathematics Problems
 
+<br />
+
+## Blog posts
+- The future with AI - [sites.google.com/view/tomorrow-with-ai](https://sites.google.com/view/tomorrow-with-ai/home)
 
 
 <!---
