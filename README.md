@@ -3,8 +3,13 @@
 <a href="https://www.instagram.com/alok.genesis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="InstagramAcc"/></a>&nbsp;
 <a href="https://www.facebook.com/ialok1920/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FacebookAcc"/></a>&nbsp;<br></br>
 
-I am an MSc Data Science student at <a href="https://www.cmi.ac.in">Chennai Mathematical Institute</a>. I’m mostly interested in **Artificial Intelligence** and **Deep Leaning** and want to contribute to the world to bring a technological balance between humans and machines.<br><br>I completed my bachelor's in Mathematics and Physics (Honours) from the same college. At the end of my $5^{th}$ semester, I realized that I wanted to dive into a subject that includes both mathematics, science, and technology, and Data Science seemed to be the closest subject to fit these criteria. Looking further into this field, I found it very interesting and kept dwelling further the more I learned about its concepts and ingenious ideas. At the end of my $6^{th}$ semester, I decided to take it as a subject for further studies and want to do something big and innovative related to this in the future. Now, I have realized that it is not a one-step process but rather a long journey, which requires dedication and persistence. Also, it is the journey that is more important than the goal itself.<br><br>Currently, I am expanding my knowledge in various fields of AI and working on independent projects that could help the community. Do reach out to me if you want to collaborate with me on some interesting project or any new idea.<br></br> P.S. I always respond to LinkedIn messages.
-<br></br>
+I am a Data Scientist, currently working at <a href="https://www.kantar.com/">Kantar</a>, Chennai. I did my MSc in Data Science, as well as my Bachelors' in Mathematics and Physics at <a href="https://www.cmi.ac.in">Chennai Mathematical Institute</a>.
+<br><br>
+My key interests include different topics in **Artificial Intelligence**, such as **Machine Leaning**, **Deep Learning**, **Reinforcement Learning**, **Generative AI and Foundation models**, **Computer Vision**, **Natural Language Processing**, **Bayesian Statistics**, etc. With this fast growing pace in AI, I try to keep myself familiar with as many topics and recent research as possible. Even in my free time, I either spend it by familiarizing myself with topics in AI, or engaging in my other hobbies.
+<br><br>
+Apart from office works, I spend most of my time working on independent projects and conducting experiments. This could include testing out new ideas, research paper, or even combining different papers. In my `side quests`, I try to replicate results from various topics which come by my sight either through papers, blogs, youtube videos, or even someone's claim.
+<br><br>
+Do check out my projects and blogs if you get time. Also, you can connect with me for project collaborations, or for just saying HI. I am always (trying to be) available on Linkedin.
 
 ## Achievements
 - 🏆 Gold Honour - International Youth Math Challenge 2023
@@ -15,13 +20,9 @@ I am an MSc Data Science student at <a href="https://www.cmi.ac.in">Chennai Math
 ## Hobbies
 - 🎤 Singing
 - 🎬 Anime
-- 📐 Solving Mathematics Problems (helps in Analytical thinking)
+- 📐 Solving Problems from Math Olympiads and Competitions
 <br></br>
 
-## Blog posts
+## Blogs
 - The future with AI - [sites.google.com/view/tomorrow-with-ai](https://sites.google.com/view/tomorrow-with-ai/home)
-<br></br>
-
-## 💻 Tech Stack:
-[![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/) [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/#google_vignette) [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/) [![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)](https://mlflow.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/) [![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/) [![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.overleaf.com/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Model on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md-dark.svg)](https://huggingface.co/models)
 <br></br>
